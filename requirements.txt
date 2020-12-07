@@ -1,0 +1,13 @@
+# Minimum packages for azure functions
+azure-functions
+azure-functions-worker
+grpcio~=1.20.1
+grpcio-tools~=1.20.1
+protobuf==3.6.1
+six==1.11.0
+# Additional packages
+requests==2.20.1
+feedparser==5.2.1
+Pillow==7.0.0
+numpy==1.18.1
+onnxruntime==1.4.0
